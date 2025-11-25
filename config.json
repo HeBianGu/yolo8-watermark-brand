@@ -1,0 +1,11 @@
+{
+  "data": "data-brand.yaml",
+  "epochs": 50,
+  "imgsz": 288,
+  "device": "cpu",
+  "workers": 0,
+  "batch": 6,
+  "hsv_h": 0.0,
+  "hsv_s": 0.0,
+  "hsv_v": 0.0
+}
